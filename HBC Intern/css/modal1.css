@@ -1,0 +1,41 @@
+.modal-content{
+  background-color: #7dd66f;
+}
+.content-container{
+  background-color: white;
+  margin: 30px;
+  padding-top: 20px;
+}
+.header{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.text-body-header{
+  font-family: 'Staatliches', cursive;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 20px;
+  font-size: 24px;
+}
+.text-body-content{
+  font-family: 'Staatliches', cursive;
+  font-size: 18px;
+  text-align: center;
+  padding-top: 20px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.footer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 15px;
+  padding-bottom: 20px;
+}
+.linked-btn{
+  background-color: #7dd66f;
+  font-family: 'Titillium Web', sans-serif;
+  font-weight: bold;
+}

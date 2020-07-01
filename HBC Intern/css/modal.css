@@ -1,0 +1,82 @@
+.modal-content{
+  background-color: #f2b929;
+}
+.header{
+  display: flex;
+  align-items:center;
+  justify-content: center;
+  margin-top: 15px;
+}
+.header-wrapping{
+  /* font-family: 'Staatliches', cursive; */
+  margin-top: 20px;
+
+}
+.header-center{
+    /* border: 1px solid black; */
+    text-align: center;
+    display: block;
+    width: 30px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 20px;
+    margin-left: 20px;
+    font-family: 'Staatliches', cursive;
+    font-size: 30px;
+  }
+.body{
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+.mail-input{
+  border-bottom: 2px solid black;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  background-color:#f2b929;
+  width: 100%;
+  margin-left: 20px;
+  margin-right: 20px;
+  text-align: center;
+}
+.text-body{
+  font-family: 'Staatliches', cursive;
+  font-size: 23px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  text-align: center;
+}
+.input-body{
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.footer{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+margin-bottom: 15px;
+}
+.submit-btn{
+  background-color: black;
+  color: #f2b929;
+}
+
+::-webkit-input-placeholder {
+  text-align: center;
+  color: black;
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 20px;
+  opacity: 0.5;
+}
+
+:-moz-placeholder {
+  text-align: center;
+  color: black;
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 20px;
+  opacity: 0.5;
+}
