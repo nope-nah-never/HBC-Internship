@@ -15,6 +15,10 @@
 
 
 }
+.car-img{
+ height:30%;
+ width:30%;
+}
 .for-carousel {
   width: 80%;
   margin:20px auto;
